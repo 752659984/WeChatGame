@@ -1,0 +1,18 @@
+E:\项目\VS2017 Projects\WeChatGame\WeChatGame\bin\Debug\WeChatGame.exe.config
+E:\项目\VS2017 Projects\WeChatGame\WeChatGame\bin\Debug\WeChatGame.exe
+E:\项目\VS2017 Projects\WeChatGame\WeChatGame\bin\Debug\WeChatGame.pdb
+E:\项目\VS2017 Projects\WeChatGame\WeChatGame\obj\Debug\WeChatGame.Form1.resources
+E:\项目\VS2017 Projects\WeChatGame\WeChatGame\obj\Debug\WeChatGame.Properties.Resources.resources
+E:\项目\VS2017 Projects\WeChatGame\WeChatGame\obj\Debug\WeChatGame.csproj.GenerateResource.Cache
+E:\项目\VS2017 Projects\WeChatGame\WeChatGame\obj\Debug\WeChatGame.csproj.CoreCompileInputs.cache
+E:\项目\VS2017 Projects\WeChatGame\WeChatGame\obj\Debug\WeChatGame.exe
+E:\项目\VS2017 Projects\WeChatGame\WeChatGame\obj\Debug\WeChatGame.pdb
+E:\VS\WeChatGame\WeChatGame\bin\Debug\WeChatGame.exe.config
+E:\VS\WeChatGame\WeChatGame\bin\Debug\WeChatGame.exe
+E:\VS\WeChatGame\WeChatGame\bin\Debug\WeChatGame.pdb
+E:\VS\WeChatGame\WeChatGame\obj\Debug\WeChatGame.Form1.resources
+E:\VS\WeChatGame\WeChatGame\obj\Debug\WeChatGame.Properties.Resources.resources
+E:\VS\WeChatGame\WeChatGame\obj\Debug\WeChatGame.csproj.GenerateResource.Cache
+E:\VS\WeChatGame\WeChatGame\obj\Debug\WeChatGame.csproj.CoreCompileInputs.cache
+E:\VS\WeChatGame\WeChatGame\obj\Debug\WeChatGame.exe
+E:\VS\WeChatGame\WeChatGame\obj\Debug\WeChatGame.pdb
